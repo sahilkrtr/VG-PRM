@@ -1,0 +1,1 @@
+The data that support the findings of this study are openly available in the FloodNet repository at https://github.com/BinaLab/FloodNet-Challenge-EARTHVISION2021 and the remote-sensing-VQA-benchmark dataset available from the repository associated with (https://huggingface.co/datasets/AdaptLLM/remote-sensing-VQA-benchmark).
